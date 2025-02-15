@@ -3,6 +3,7 @@ body{
     color: red;
 }
 
-ul, li{
+ul, li, a
+{
     list-style-type: none;
 }
